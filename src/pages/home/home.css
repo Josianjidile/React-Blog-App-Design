@@ -1,0 +1,17 @@
+.home {
+  display: flex;
+}
+
+.home > * {
+  flex: 1;
+}
+
+
+  .home-posts {
+    flex: 9;
+ 
+}
+
+.home-sidebar {
+  flex: 3;
+}
